@@ -26,5 +26,6 @@
 
 📬 Telegram: [@aisatsanz](https://t.me/aisatsanz)  
 📂 GitHub: [aisatsanz](https://github.com/aisatsanz)
+Канал куда выкладываю более подробные разборы статей из репозитория paper-notes: [@reinforce_no_approval](https://t.me/reinforce_no_approval)
 
 ---
