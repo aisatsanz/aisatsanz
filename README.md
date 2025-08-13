@@ -1,7 +1,7 @@
 # Vadim Linkov
 Mathematics & CS `28
 
-ML | Gen AI | Computer vision | Graph NN
+ML | Computer Vision | Gen AI | Graph NN
 
 ---
 
@@ -14,11 +14,9 @@ ML | Gen AI | Computer vision | Graph NN
 
 ## Interests
 
-- **Generative modeling**: diffusion processes, DDPM, scene generation
-- **Computer Vision**: self-supervised learning, segmentation, feature-matching, real-time detection
-- **Optimization and Theory**: SGD, Adam, graph algorithms, layout topology
+- **Generative modeling**: diffusion processes, scene generation
+- **Computer Vision**: self-supervised learning, segmentation, feature-matching, real-time detection, tracking
 - **Graph Structures**: GNN, link prediction
-- **Applications of ML**: room architecture, scheduling, dialog systems, realtime detection
 
 ---
 
