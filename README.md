@@ -23,8 +23,8 @@ ML | Computer Vision | Gen AI | Graph NN
 ## Contacts
 
 Telegram: [@aisatsanz](https://t.me/aisatsanz)  
-GitHub: [aisatsanz](https://github.com/aisatsanz)
-Linkedin: [@vadimlinkov](https://www.linkedin.com/in/vadimlinkov/)
+GitHub: [aisatsanz](https://github.com/aisatsanz)  
+Linkedin: [@vadimlinkov](https://www.linkedin.com/in/vadimlinkov/)  
 Channel where I post more detailed reviews of articles from the paper-notes repository: [@reinforce_no_approval](https://t.me/reinforce_no_approval)
 
 ---
