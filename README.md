@@ -1,8 +1,8 @@
 # Vadim Linkov
-Mathematics & CS `28
-Sber AI
+Mathematics & CS `28 
+Sber AI 
 
-ML | Computer Vision | Gen AI
+ML | Computer Vision | Gen AI 
 
 ---
 
